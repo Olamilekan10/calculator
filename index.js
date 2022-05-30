@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 
 let input = document.getElementById('input'), // input/output button
 number = document.querySelectorAll('.numbers div'), // number buttons
