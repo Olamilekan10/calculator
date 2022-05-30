@@ -116,7 +116,7 @@ for (let i = 0; i < operator.length; i++) {
   
   // clearing the input on press of clear
   clear.addEventListener("click", function() {
-    input.innerHTML = "";
+    // input.innerHTML = "";
   })
   
 
