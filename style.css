@@ -38,9 +38,9 @@ body {
 
 /* .buttons {} */
 
-.operators {}
+/* .operators {} */
 
-/* .operators div {
+.operators div {
   display: inline-block;
   border: 1px solid #bbb;
   border-radius: 1px;
@@ -62,9 +62,9 @@ body {
 
 .operators div:active {
   font-weight: bold;
-} */
+}
 
-/* .leftPanel {
+/* /* .leftPanel {
   display: inline-block;
 } */
 
