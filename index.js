@@ -45,7 +45,7 @@ for (var i = 0; i < operator.length; i++) {
       // if last character entered is an operator, replace it with the currently pressed one
       if (lastChar === "+" || lastChar === "-" || lastChar === "×" || lastChar === "÷") {
         var newString = currentString.substring(0, currentString.length - 1) + e.target.innerHTML;
-        input.innerHTML = newString;
+        // input.innerHTML = newString;
       } else if (currentString.length == 0) {
         // if first key pressed is an opearator, don't do anything
         console.log("enter a number first");
