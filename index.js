@@ -109,7 +109,7 @@ for (let i = 0; i < operator.length; i++) {
       add = operators.indexOf("+");
     }
   
-    input.innerHTML = numbers[0]; // displaying the output
+    // input.innerHTML = numbers[0]; // displaying the output
   
     resultDisplayed = true; // turning flag if result is displayed
   });
