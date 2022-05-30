@@ -64,9 +64,9 @@ body {
   font-weight: bold;
 }
 
-/* /* .leftPanel {
+.leftPanel {
   display: inline-block;
-} */
+}
 
 .numbers div {
   display: inline-block;
