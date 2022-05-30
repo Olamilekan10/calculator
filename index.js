@@ -70,10 +70,10 @@ for (let i = 0; i < operator.length; i++) {
     // first we replace all the numbers and dot with empty string and then split
     let operators = inputString.replace(/[0-9]|\./g, "").split("");
   
-    console.log(inputString);
-    console.log(operators);
-    console.log(numbers);
-    console.log("----------------------------");
+    // console.log(inputString);
+    // console.log(operators);
+    // console.log(numbers);
+    // console.log("----------------------------");
   
     // now we are looping through the array and doing one operation at a time.
     // first divide, then multiply, then subtraction and then addition
