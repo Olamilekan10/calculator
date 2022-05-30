@@ -51,9 +51,12 @@ for (var i = 0; i < operator.length; i++) {
         console.log("enter a number first");
       } else {
         // else just add the operator pressed to the input
-        // input.innerHTML += e.target.innerHTML;
+        input.innerHTML += e.target.innerHTML;
       }
   
     });
-  }
+  };
+
+  
+
   
