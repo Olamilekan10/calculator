@@ -94,7 +94,7 @@ for (let i = 0; i < operator.length; i++) {
       multiply = operators.indexOf("×");
     }
   
-    var subtract = operators.indexOf("-");
+    let subtract = operators.indexOf("-");
     while (subtract != -1) {
       numbers.splice(subtract, 2, numbers[subtract] - numbers[subtract + 1]);
       operators.splice(subtract, 1);
