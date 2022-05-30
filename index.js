@@ -87,12 +87,12 @@ for (let i = 0; i < operator.length; i++) {
       divide = operators.indexOf("÷");
     }
   
-    let multiply = operators.indexOf("×");
-    while (multiply != -1) {
-      numbers.splice(multiply, 2, numbers[multiply] * numbers[multiply + 1]);
-      operators.splice(multiply, 1);
-      multiply = operators.indexOf("×");
-    }
+    // let multiply = operators.indexOf("×");
+    // while (multiply != -1) {
+    //   numbers.splice(multiply, 2, numbers[multiply] * numbers[multiply + 1]);
+    //   operators.splice(multiply, 1);
+    //   multiply = operators.indexOf("×");
+    // }
   
     let subtract = operators.indexOf("-");
     while (subtract != -1) {
