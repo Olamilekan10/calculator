@@ -10,14 +10,14 @@ body {
   -ms-user-select: none; */
 }
 
-/* .calculator {
+.calculator {
   padding: 20px;
   -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   border-radius: 1px;
 }
 
-.input {
+/* .input {
   border: 1px solid #ddd;
   border-radius: 1px;
   height: 60px;
@@ -34,13 +34,13 @@ body {
   border: 1px solid #bbb;
   -webkit-box-shadow: inset 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: inset 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
-}
+} */
 
-.buttons {}
+/* .buttons {} */
 
-.operators {}
+/* .operators {} */
 
-.operators div {
+/* .operators div {
   display: inline-block;
   border: 1px solid #bbb;
   border-radius: 1px;
@@ -62,11 +62,11 @@ body {
 
 .operators div:active {
   font-weight: bold;
-}
+} */
 
-.leftPanel {
+/* .leftPanel {
   display: inline-block;
-}
+} */
 
 .numbers div {
   display: inline-block;
@@ -116,4 +116,4 @@ div.equal:hover {
 
 div.equal:active {
   font-weight: bold;
-} */
+}
