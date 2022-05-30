@@ -111,7 +111,7 @@ for (let i = 0; i < operator.length; i++) {
   
     input.innerHTML = numbers[0]; // displaying the output
   
-    resultDisplayed = true; // turning flag if result is displayed
+    //resultDisplayed = true; // turning flag if result is displayed
   });
   
   // clearing the input on press of clear

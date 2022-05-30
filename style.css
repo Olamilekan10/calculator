@@ -5,9 +5,9 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 5px;
   font-size: 1.8rem;
-  /* -moz-user-select: none;
+  -moz-user-select: none;
   -webkit-user-select: none;
-  -ms-user-select: none;  */
+  -ms-user-select: none; 
 }
 
 .calculator {
@@ -36,9 +36,9 @@ body {
   box-shadow: inset 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
-/* .buttons {} */
+.buttons {}
 
-/* .operators {} */
+.operators {}
 
 .operators div {
   display: inline-block;
@@ -96,9 +96,9 @@ div.equal {
   display: inline-block;
   border: 1px solid #3079ED;
   border-radius: 1px;
-  width: 17%;
+  width: 6%;
   text-align: center;
-  padding: 127px 10px;
+  padding: 100px 10px;
   margin: 10px 6px 10px 0;
   vertical-align: top;
   cursor: pointer;
