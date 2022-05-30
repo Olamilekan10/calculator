@@ -5,9 +5,9 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 5px;
   font-size: 1.8rem;
-  /* -moz-user-select: none;
+  -moz-user-select: none;
   -webkit-user-select: none;
-  -ms-user-select: none; */
+  -ms-user-select: none; 
 }
 
 .calculator {
@@ -92,7 +92,7 @@ body {
   font-weight: bold;
 }
 
-/* div.equal {
+div.equal {
   display: inline-block;
   border: 1px solid #3079ED;
   border-radius: 1px;
@@ -116,4 +116,4 @@ div.equal:hover {
 
 div.equal:active {
   font-weight: bold;
-} */
+}
