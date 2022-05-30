@@ -14,12 +14,13 @@ body {
   padding: 20px;
   -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
-  border-radius: 1px;
+  border-radius: 5px;
+  background-color: coral;
 }
 
 .input {
   border: 1px solid #ddd;
-  border-radius: 1px;
+  border-radius: 5px;
   height: 60px;
   padding-right: 15px;
   padding-top: 10px;
