@@ -92,7 +92,7 @@ body {
   font-weight: bold;
 }
 
-div.equal {
+/* div.equal {
   display: inline-block;
   border: 1px solid #3079ED;
   border-radius: 1px;
@@ -116,4 +116,4 @@ div.equal:hover {
 
 div.equal:active {
   font-weight: bold;
-}
+} */
