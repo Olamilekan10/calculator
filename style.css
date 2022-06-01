@@ -41,7 +41,9 @@ body {
     border: none;
 }
 
-.operators {}
+.operators {
+    border: none;
+}
 
 .operators div {
   display: inline-block;
